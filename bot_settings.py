@@ -1,7 +1,7 @@
 from functions import *
 
 
-API_TOKEN = '5566847647:AAGIog4SpsE5DYRXM0Vgii9C5ffQ8XGPAno'
+API_TOKEN = ''
 
 logging.basicConfig(level=logging.INFO)
 
